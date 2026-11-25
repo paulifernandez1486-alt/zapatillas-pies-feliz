@@ -1,0 +1,75 @@
+[
+{
+"nombre":"Campus",
+"precio":62000,
+"fecha":"20/10/2026",
+"imagen": "images/campus.webp",
+"descripcion": "Zapatillas Adidas Campus"
+},
+
+{
+"nombre":"Campus Rojas",
+"precio":62000,
+"fecha":"20/10/2026",
+"imagen": "images/campusroja.webp",
+"descripcion": "Zapatillas Adidas Campus Rojas"
+},
+
+{
+"nombre":"Vans",
+"precio":50000,
+"fecha":"20/10/2026",
+"imagen": "images/vans.webp",
+"descripcion": "Zapatillas Vans"
+},
+
+{
+"nombre":"Vans SK8-HI ",
+"precio":50000,
+"fecha":"20/10/2026",
+"imagen": "images/vansbotita.webp",
+"descripcion": "Zapatillas Vans SK8-HI"
+},
+
+{
+"nombre":"Vans SK8-HI  Roja",
+"precio":50000,
+"fecha":"20/10/2026",
+"imagen": "images/botitaroja.webp",
+"descripcion": "Zapatillas Vans SK8-HI Rojas"
+},
+
+{
+"nombre":"Vans U Knu",
+"precio":55000,
+"fecha":"20/10/2026",
+"imagen": "images/vansknu.webp",
+"descripcion": "Zapatillas Vans U Knu"
+},
+
+{
+"nombre":"Nike Dunk Low",
+"precio":76000,
+"fecha":"20/10/2026",
+"imagen": "images/nike.webp",
+"descripcion": "Zapailla NIke Duke Low"
+},
+
+{
+"nombre":"Nike Air Jordan 1 Retro",
+"precio":90000,
+"fecha":"22/10/2026",
+"imagen": "images/nikeretro.webp",
+"descripcion": "Zapatillas NikeAir Jordan 1 Retro "
+},
+
+{
+"nombre":"Puma suede xl",
+"precio":70000,
+"fecha":"03/11/2026",
+"imagen": "images/puma.webp",
+"descripcion": "Zapatillas Puma Suede XL"
+}
+
+
+]
