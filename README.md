@@ -47,8 +47,8 @@ Proyecto desarrollado con **HTML, CSS y JavaScript vanilla** (módulos ES6), sin
 │   └── core/
 │       └── products.js    
 └── img/
-    ├── logo.svg
-    └── pizza-*.jpg 
+    ├── logo.jpg
+    └── zapatillas-*.jpg 
 
 ```
 
